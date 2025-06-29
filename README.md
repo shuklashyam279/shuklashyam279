@@ -2,7 +2,7 @@
 <!-- Overview & Trophy -->
 
 <h1 align="center">Hi 👋, I'm Shyam Shukla</h1>
-<h3 align="center">A passionate Software Engineer and graduate having a B. Tech degree with a major in Computer Science Engineering from India.</h3>
+<h3 align="center">A passionate Software Engineer and graduate having a <h1 align="center">B. Tech</h1> degree with a major in <h1 align="center">Computer Science Engineering</h1> from India.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuklashyam279&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
